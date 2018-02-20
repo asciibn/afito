@@ -7,6 +7,7 @@
 
 .NavBackground{
     background-color: #f9f9f9;
+    height: 90px;
 }
 
 .logo-container{
@@ -16,7 +17,7 @@
 }
 
 .NavCopyColor{
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 14pt;
     color: #6c6c6c;
     width: auto;

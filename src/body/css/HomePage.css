@@ -1,0 +1,14 @@
+.bodyContainer{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.homepage-content-container{
+    margin: 10px;
+    width: 80%;
+}
+
+.homepage-content-container h1{
+    color: #0f3970;
+}
